@@ -1,4 +1,4 @@
-# colorado_peaks
+# mountains
 A Garmin Basecamp "export" repository.
 
 ### NOTE THIS WILL CLOBBER YOUR EXISTING GARMIN BASECAMP DATA! ###
